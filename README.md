@@ -24,6 +24,7 @@ In my spare time, I enjoy photography📸, books📚 and long walks.
 - [Same carwash site ](https://rav1ol33.github.io/Pushka-39/)but with modern angular
 - [Search helper with build-in templates](https://rav1ol33.github.io/Search-Try-prod/)
 - [Simple graph builder for stocks  ](https://rav1ol33.github.io/Search-Try-prod/)with database on Google Sheets
+- dozens of python and c# projects
 
 **My skills**: 
 - Hard skills: HTML, CSS, ES6, BEM, LESS, SASS, SCSS, JavaScript, NodeJS, WebPack, Gulp, Git, Github, Figma, Zeplin, Sketch, Photoshop
