@@ -24,10 +24,10 @@ In my spare time, I enjoy photography📸, books📚 and long walks.
 - [Same carwash site ](https://rav1ol33.github.io/Pushka-39/)but with modern angular
 - [Search helper with build-in templates](https://rav1ol33.github.io/Search-Try-prod/)
 - [Simple graph builder for stocks  ](https://rav1ol33.github.io/Search-Try-prod/)with database on Google Sheets API
-- Dozens of python and c# projects. Parsers for specific tasks, Inst/Vk(with vk api)
+- Dozens of python and c# projects. Parsers os Selenium for specific tasks, Inst/Vk(with vk api)
 
 **My skills**: 
-- Hard skills: Angular, Python, HTML, CSS, ES6, BEM, SCSS, JavaScript, NodeJS, WebPack, Git, Github, Figma, Photoshop
+- Hard skills: Angular, Python, HTML, CSS, ES6, BEM, SCSS, Selenium, JavaScript, NodeJS, WebPack, Git, Github, Figma, Photoshop
 - Soft skills: Project Management, Teamwork, Excellent communication skills
 
 **Languages**:
