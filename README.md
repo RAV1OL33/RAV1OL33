@@ -27,7 +27,7 @@ In my spare time, I enjoy photography📸, books📚 and long walks.
 - Dozens of python and c# projects
 
 **My skills**: 
-- Hard skills: HTML, CSS, ES6, BEM, LESS, SASS, SCSS, JavaScript, NodeJS, WebPack, Gulp, Git, Github, Figma, Zeplin, Sketch, Photoshop
+- Hard skills: Angular, Python, HTML, CSS, ES6, BEM, SCSS, JavaScript, NodeJS, WebPack, Git, Github, Figma, Photoshop
 - Soft skills: Project Management, Teamwork, Excellent communication skills
 
 **Languages**:
