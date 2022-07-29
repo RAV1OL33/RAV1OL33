@@ -1,0 +1,44 @@
+### Hi there 👋
+
+<!--
+**RAV1OL33/RAV1OL33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+See my full resume [here](https://bit.ly/AlexMorrisonCV)
+-->
+
+My name is Artem, and I'm currently looking for a job as a front-end developer👩‍💻. Any feedback and help are appreciated.
+In my spare time, I enjoy photography📸, books📚 and long walks.
+
+**My projects**: 
+- [Simply Tilda landing](https://codepen.io/RAV1OL33/pen/abEEpaW) 
+    Fast, clean and adaptive
+- [Carwash site on Vanila JS](https://pushka39.ru) with some incredible workarounds
+- [Same carwash site ](https://rav1ol33.github.io/Pushka-39/)but with modern angular
+- [Search helper with build-in templates](https://rav1ol33.github.io/Search-Try-prod/)
+- [Simple graph builder for stocks  ](https://rav1ol33.github.io/Search-Try-prod/)with database on Google Sheets
+
+**My skills**: 
+- Hard skills: HTML, CSS, ES6, BEM, LESS, SASS, SCSS, JavaScript, NodeJS, WebPack, Gulp, Git, Github, Figma, Zeplin, Sketch, Photoshop
+- Soft skills: Project Management, Teamwork, Excellent communication skills
+
+**Languages**:
+- 🇷🇺 Russian – native
+- 🇬🇧 English – confident - B2
+
+
+
+```
+
+🔭 I’m currently working at ESTAD
+💬 Ask me about anything
+📫 How to reach me: artem.aks@estad.ru
+
+```
