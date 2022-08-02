@@ -20,7 +20,7 @@ In my spare time, I enjoy photography📸, books📚 and long walks.
 **My projects**: 
 - [Simply Tilda landing](https://codepen.io/RAV1OL33/pen/abEEpaW) 
     Fast, clean and adaptive
-- [Carwash site on Vanila JS](https://pushka39.ru) with some incredible workarounds
+- [Carwash site on Vanilla JS](https://pushka39.ru) with some incredible workarounds
 - [Same carwash site ](https://rav1ol33.github.io/Pushka-39/)but with modern angular
 - [Search helper with build-in templates](https://rav1ol33.github.io/Search-Try-prod/)
 - [Simple graph builder for stocks  ](https://rav1ol33.github.io/Search-Try-prod/)with database on Google Sheets API
