@@ -23,7 +23,7 @@ In my spare time, I enjoy photography📸, books📚 and long walks.
 - [Carwash site on Vanilla JS](https://pushka39.ru) with some incredible workarounds
 - [Same carwash site ](https://rav1ol33.github.io/Pushka-39/)but with modern angular
 - [Search helper with build-in templates](https://rav1ol33.github.io/Search-Try-prod/)
-- [Simple graph builder for stocks  ](https://rav1ol33.github.io/Search-Try-prod/)with database on Google Sheets API
+- [Simple graph builder for stocks  ](https://codepen.io/RAV1OL33/pen/MWmWBzW)with database on Google Sheets API
 - Dozen of python and c# projects. Parsers on Selenium for specific tasks, Inst/Vk(with vk api)
 
 **My skills**: 
