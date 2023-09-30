@@ -40,8 +40,8 @@ In my spare time, I enjoy photography📸, books📚 and long walks.
 
 ```
 
-🔭 I’m currently working at ESTAD
+🔭 I’m currently working at ITForce
 💬 Ask me about anything
-📫 How to reach me: artem.aks@estad.ru
+📫 How to reach me: artem.aksenov.in@gmail.com
 
 ```
